@@ -1,6 +1,7 @@
 CTRL + SHIFT + P = Criar atalho
 Emmet: Wrap with abreviation (Encapsular com uma tag)
 
+! - Cria automaticamente o começo do html
 
 TAG DE TEXTO: 
 H - Tag de título
@@ -15,6 +16,7 @@ blockquote - comentarios no meio
 
 OUTRAS TAG
 hr - coloca uma linha horizontal na página
+br - quebra a linha
 <p id="" - Tag que define um id para o paragrafo ou titulo
 figure - seção para imagem
 img - adiciona imagem
